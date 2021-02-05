@@ -1,6 +1,6 @@
 # Lab03-SE
-### Commit Testing...
-## Hi Dr. Anurag :)
+## Commit Testing...
+### Hi Dr. Anurag :)
 
 - **Steps** that I learned *so far*
 
@@ -15,5 +15,5 @@
 > - E19CSE001
 > - EB01
 > 
-> **Software Engineering** Lab 03
+> ***Software Engineering*** Lab 03
 ***
